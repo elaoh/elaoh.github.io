@@ -52,8 +52,5 @@ Universitas Indonesia, Depok, Indonesia
 Special Thanks
 ------
 I wish to extend my profound gratitude to the esteemed institutions that have generously provided funding for my research endeavors\
-![University of Indonesia](/images/UI.png){: width="300px"}
-![Kemenristekdikti](/images/Ristek.png){: width="300px"}
-![OSU](/images/OSU.png){: width="300px"}
-![NIH](/images/NIH.png){: width="300px"}
-![NSF](/images/NSF.png){: width="300px"}
+![University of Indonesia](/images/UI.png){: width="100px"} ![Kemenristekdikti](/images/Ristek.png){: width="100px"}
+![OSU](/images/OSU.png){: width="100px"} ![NIH](/images/NIH.png){: width="100px"} ![NSF](/images/NSF.png){: width="100px"}
