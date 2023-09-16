@@ -14,17 +14,17 @@ I am Enrico Laoh, welcome to my homepage and please do not hestitate to [contact
 My Expertise
 ------
 * **Machine Learning and Predictive Modeling**\
-  Enabling data-driven decision-making across various domains.\
-  Harnessing the power of data to make accurate forecasts, identify trends, and automate processes.\
-  Extracting valuable insights from data to optimize operations, predict future outcomes, and make informed strategic choices.
+  **Enabling data-driven decision-making** across various domains.\
+  **Harnessing the power of data** to make accurate forecasts, identify trends, and automate processes.\
+  **Extracting valuable insights** from data to optimize operations, predict future outcomes, and make informed strategic choices.
 * **Unstructured Data Analytics**\
-  Gathering and preprocessing unstructured data includes text, images, audio, and more.\
-  Analyzing and extracting meaning from unstructured data is essential for making informed decisions, understanding customer sentiments, and gaining a competitive edge.\
-  Leveraging the information from unstructured data with traditional data driven model.
+  **Gathering and preprocessing unstructured data** includes text, images, audio, and more.\
+  **Analyzing and extracting meaning from unstructured data** is essential for making informed decisions, understanding customer sentiments, and gaining a competitive edge.\
+  **Leveraging the information from unstructured data** together with traditional database driven model.
 * **Blockchain and Distributed Ledger Technology (DLT)**\
-  Developing secure and immutable record-keeping.\
-  Enabling peer-to-peer transactions and reducing the need for intermediaries.\
-  Enhancing security, streamline processes, and reduce fraud for the data-sensitive system like finance, supply chain, and healthcare.
+  **Developing secure and immutable record-keeping**.\
+  **Enabling peer-to-peer transactions** and reducing the need for intermediaries.\
+  **Enhancing security, streamline processes, and reduce fraud** for the data-sensitive system like finance, supply chain, and healthcare.
 
 
 Research Interests
