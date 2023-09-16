@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Enrico Laoh"
+  avatar           : "Profile elaoh.jpeg"
+  bio              : "Passionate PhD Student in the Area of Applied Artificial Intelligence"
+  location         : "USA"
+  employer         : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=enrico+laoh"
+  googlescholar    : "https://scholar.google.com/citations?user=DoJQbfoAAAAJ&hl=en"
+  email            : "elaoh@okstate.edu"
+  researchgate     : "https://www.researchgate.net/profile/Enrico-Laoh"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "laohenrico/"
+  orcid            : "https://orcid.org/0000-0002-6183-1962"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
