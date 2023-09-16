@@ -48,3 +48,12 @@ Oklahoma State University, Stillwater, United States
 Universitas Indonesia, Depok, Indonesia
 - **Bachelor of Engineering**, *Industrial Engineering*, (GPA 3.88/4.00)
 Universitas Indonesia, Depok, Indonesia
+
+Special Thanks
+------
+I wish to extend my profound gratitude to the esteemed institutions that have generously provided funding for my research endeavors\
+![University of Indonesia](/images/UI.png){: width="300px"}
+![Kemenristekdikti](/images/Ristek.png){: width="300px"}
+![OSU](/images/OSU.png){: width="300px"}
+![NIH](/images/NIH.png){: width="300px"}
+![NSF](/images/NSF.png){: width="300px"}
