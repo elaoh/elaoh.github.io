@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, thank you for visiting my online portfolio.\
-I am Enrico Laoh, welcome to my homepage and please do not hestitate to [contact me] (mailto:elaoh@okstate.edu) if you need more information about me.
+I am Enrico Laoh, welcome to my homepage and please do not hestitate to [contact me](mailto:elaoh@okstate.edu) if you need more information about me.
 
 My Expertise
 ------
