@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Hi, thank you for visiting my online portfolio.\
+I am Enrico Laoh, welcome to my homepage and please do not hestitate to [contact me] (mailto:elaoh@okstate.edu) if you need more information about me.
+
 My Expertise
 ------
 * **Machine Learning and Predictive Modeling**\
@@ -21,16 +24,16 @@ My Expertise
 * **Blockchain and Distributed Ledger Technology (DLT)**\
   Developing secure and immutable record-keeping.\
   Enabling peer-to-peer transactions and reducing the need for intermediaries.\
-  Enhancing security, streamline processes, and reduce fraud for the data-sensitive system like finance, supply chain, and healthcare
+  Enhancing security, streamline processes, and reduce fraud for the data-sensitive system like finance, supply chain, and healthcare.
 
 
 Research Interests
 ------
-My current research interest is to develop explainable artificial intelligence (XAI) frameworks and methodologies to support descriptive, predictive, and prescriptive analytics as motivated by and applied to high-stake decision-making support systems. I am especially interested in modeling, optimizing, and making applicable recommendations for industrial-related systems to improve the decision-aid system's quality and adaptability.\
+My current research interest is to develop explainable artificial intelligence (XAI) frameworks and methodologies to support descriptive, predictive, and prescriptive analytics as motivated by and applied to high-stake decision-making support systems. I am especially interested in modeling, optimizing, and making applicable recommendations for industrial-related systems to improve the decision-aid system's quality and adaptability.
 * **Methodology**\
-Descriptive modeling, predictive modeling, data analytics, text analytics, statistical learning, multivariate analysis, applied statistics, clustering algorithm, classification algorithm, time series analysis, perturbation method, cognitive analytics, and physiological measurement.\
+  Descriptive modeling, predictive modeling, data analytics, text analytics, statistical learning, multivariate analysis, applied statistics, clustering algorithm, classification algorithm, time series analysis, perturbation method, cognitive analytics, and physiological measurement.
 * **Applications**\
-Healthcare system, power system, route configuration, supply chain design, time series prediction, customer relationship analytics, sentiment analysis, and trends analytics.
+  Healthcare system, power system, route configuration, supply chain design, time series prediction, customer relationship analytics, sentiment analysis, and trends analytics.
 
 Education
 ------
