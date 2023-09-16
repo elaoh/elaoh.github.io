@@ -31,9 +31,9 @@ Research Interests
 ------
 My current research interest is to develop explainable artificial intelligence (XAI) frameworks and methodologies to support descriptive, predictive, and prescriptive analytics as motivated by and applied to high-stake decision-making support systems. I am especially interested in modeling, optimizing, and making applicable recommendations for industrial-related systems to improve the decision-aid system's quality and adaptability.
 * **Methodology**\
-  Descriptive modeling, predictive modeling, data analytics, text analytics, statistical learning, multivariate analysis, applied statistics, clustering algorithm, classification algorithm, time series analysis, perturbation method, cognitive analytics, and physiological measurement.
+  Descriptive modeling, predictive modeling, data analytics, text analytics, statistical learning, probabilistic learning, deep learning, bayesian analysis, multivariate analysis, clustering algorithm, classification algorithm, time series analysis, perturbation method, cognitive analytics, and physiological measurement.
 * **Applications**\
-  Healthcare system, supply chain system, power system, route configuration, time series prediction, customer relationship analytics, sentiment analysis, and trends analytics.
+  Healthcare system, supply chain system, power system, military system, network configuration, time series prediction, customer relationship management, sentiment modeling, and strategic management.
 
 Education
 ------
