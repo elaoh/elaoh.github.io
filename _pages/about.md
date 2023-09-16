@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, thank you for visiting my online portfolio.\
-I am Enrico Laoh, welcome to my homepage and please do not hestitate to [contact me](mailto:elaoh@okstate.edu) if you need more information about me.
+I am Enrico Laoh, welcome to my homepage and please do not hestitate to [contact me](mailto:elaoh@okstate.edu) for more information.
 
 My Expertise
 ------
@@ -33,7 +33,7 @@ My current research interest is to develop explainable artificial intelligence (
 * **Methodology**\
   Descriptive modeling, predictive modeling, data analytics, text analytics, statistical learning, multivariate analysis, applied statistics, clustering algorithm, classification algorithm, time series analysis, perturbation method, cognitive analytics, and physiological measurement.
 * **Applications**\
-  Healthcare system, power system, route configuration, supply chain design, time series prediction, customer relationship analytics, sentiment analysis, and trends analytics.
+  Healthcare system, supply chain system, power system, route configuration, time series prediction, customer relationship analytics, sentiment analysis, and trends analytics.
 
 Education
 ------
