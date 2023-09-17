@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Enrico Laoh"
   avatar           : "Profile elaoh.jpeg"
-  bio              : "Passionate PhD Student in the Area of Applied Artificial Intelligence"
+  bio              : "Passionate PhD Student in the Area of Elaborative and Transparent Artificial Intelligence Technology"
   location         : "USA"
-  employer         : 
+  employer         : "Oklahoma State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=enrico+laoh"
   googlescholar    : "https://scholar.google.com/citations?user=DoJQbfoAAAAJ&hl=en"
   email            : "elaoh@okstate.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : #"elaoh"
   google_plus      :
   keybase          :
   instagram        :

@@ -45,9 +45,9 @@ Oklahoma State University, Stillwater, United States
 - **Graduate Certificate**, *Business Analytics and Data Science*, (GPA 4.00/4.00)
 Oklahoma State University, Stillwater, United States
 - **Master of Engineering**, *Data and Quality Engineering*, (GPA 4.00/4.00)
-Universitas Indonesia, Depok, Indonesia
+Universiy of Indonesia, Depok, Indonesia
 - **Bachelor of Engineering**, *Industrial Engineering*, (GPA 3.88/4.00)
-Universitas Indonesia, Depok, Indonesia
+Universiy of  Indonesia, Depok, Indonesia
 
 Special Thanks
 ------
