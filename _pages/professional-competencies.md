@@ -25,8 +25,8 @@ Key Competencies
 Leadership
 ------
 - **Vice President**, Graduate and Professional Student Government Association, Oklahoma State University
-- **President**, Institute for Operations Research and the Management Sciences OOklahoma State University Chapter
-- **Lead4 Success Awardee**, Hargis Leadership Institute
+- **President**, Institute for Operations Research and the Management Sciences Oklahoma State University Chapter
+- **Lead4Success Awardee**, Hargis Leadership Institute
 
 Professional Certification
 ------

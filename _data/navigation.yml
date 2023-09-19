@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Brief Resume"
+    url: /files/Resume_202309.pdf 
+
+  - title: "Comprehensive CV"
+    url: /files/CV_202309.pdf 
+
 #  - title: "Talks"
 #    url: /talks/    
 
