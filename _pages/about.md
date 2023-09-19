@@ -37,9 +37,9 @@ My current research interest is to develop explainable artificial intelligence (
 
 Education
 ------
-- **Doctor of Philosophy**, *Industrial Engineering, and Management*,
+- **Doctor of Philosophy**, *Industrial Engineering and Management*,
 Oklahoma State University, Stillwater, United States	
-***Expected 04/2025***
+***Expected 05/2025***
 - **Master of Science**, *Industrial Engineering and Management*, (GPA 4.00/4.00)
 Oklahoma State University, Stillwater, United States
 - **Graduate Certificate**, *Business Analytics and Data Science*, (GPA 4.00/4.00)
