@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "General ML Paper Template"
-permalink: /general-ml-paper-template/
+permalink: /gmlpt/
 author_profile: true
 redirect_from:
-  - /general-ml-paper-template
+  - /gmlpt
 ---
 
 Writing a high-quality academic paper on machine learning (or any other topic) involves following a structured format and adhering to certain guidelines. Here's a detailed breakdown of what each section should include:
@@ -58,7 +58,7 @@ Writing a high-quality academic paper on machine learning (or any other topic) i
 **10. Appendices (if necessary):**
    - Include any supplementary material, code snippets, or additional information that supports your research but may not fit within the main body of the paper.
 
-Remember to adhere to the specific formatting and style guidelines of the academic journal or conference you intend to submit your paper to. Additionally, ensure that your writing is clear, concise, and well-structured, and proofread your paper thoroughly to eliminate grammatical and typographical errors. Finally, seek feedback from peers and mentors to improve the quality of your paper before submission.
+Remember to adhere to the specific formatting and style guidelines of the academic journal or conference you intend to submit your paper to. Additionally, ensure that your writing is clear, concise, and well-structured, and proofread your paper thoroughly to eliminate grammatical and typographical errors. Finally, seek feedback from peers and mentors to improve the quality of your paper before submission.\
  
 Let's break down what should be discussed in each paragraph of a typical machine learning academic paper:
 
@@ -111,7 +111,7 @@ Let's break down what should be discussed in each paragraph of a typical machine
 **10. Appendices (if necessary):**
    - Include supplementary material, code snippets, or additional data that supports your research but may not fit within the main body of the paper.
 
-In each paragraph, it's crucial to maintain clarity and conciseness while conveying the necessary information. Ensure that your writing flows logically from one paragraph to the next and that your paper is well-structured overall. Additionally, follow the specific formatting and style guidelines of the journal or conference you're submitting to, and proofread your paper carefully to eliminate errors.
+In each paragraph, it's crucial to maintain clarity and conciseness while conveying the necessary information. Ensure that your writing flows logically from one paragraph to the next and that your paper is well-structured overall. Additionally, follow the specific formatting and style guidelines of the journal or conference you're submitting to, and proofread your paper carefully to eliminate errors.\
  
 Here is a template for each paragraph in a machine learning academic paper:
 
