@@ -29,7 +29,7 @@ My Expertise
 
 Research Interests
 ------
-My current research interest is to develop explainable artificial intelligence (XAI) frameworks and methodologies to support descriptive, predictive, and prescriptive analytics as motivated by and applied to high-stake decision-making support systems. I am especially interested in modeling, optimizing, and making applicable recommendations for industrial-related systems to improve the decision-aid system's quality and adaptability.
+My current research interest is to develop explainable artificial intelligence (XAI) frameworks and methodologies to support high-stake decision-making systems. I am especially interested in building interpretable machine learning models, incorporating human capability limitations, and designing human-ai collaborative decision-making systems to improve decision quality and adaptability.
 * **Methodology**\
   Descriptive modeling, predictive modeling, data analytics, text analytics, statistical learning, probabilistic learning, deep learning, bayesian analysis, multivariate analysis, clustering algorithm, classification algorithm, time series analysis, perturbation method, cognitive analytics, and physiological measurement.
 * **Applications**\
