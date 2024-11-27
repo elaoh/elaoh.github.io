@@ -15,7 +15,11 @@ Member of Honor Society
 
 Selected Awards
 ------
-👨🏻‍🎓 **Roy and Virginia Dorrough Distinguished Graduate Fellowship**, Oklahoma State University, 2023\
+👨🏻‍🎓 **IISE Lisa Zaken Award for Excellence**, Institute of Industrial and Systems Engineers, 2024\
+👨🏻‍🎓 **President Leadership Recognition**, Hargis Leadership Institute, 2024\
+👨🏻‍🎓 **Roberson Dissertation Award**, Oklahoma State University, 2024\
+👨🏻‍🎓 **Outstanding Graduate Student Award**, CEAT Oklahoma State University, 2024\
+👨🏻‍🎓 **Roy and Virginia Dorrough Distinguished Graduate Fellowship**, Oklahoma State University, 2023 and 2024\
 👨🏻‍🎓 **Creativity, Innovation, and Entrepreneurship Scholar**, Spears School of Business, Oklahoma State University, 2021\
 👨🏻‍⚖️ **International Publication Awards**, Annual Engineering Dean's Awards for Outstanding International Publications, Faculty of Engineering, Universitas Indonesia, 2018 and 2019\
 👨🏻‍🔬 **IEEE SMC Society Merit Paper Awards**, 8th International Conference on Awareness Science and Technology (iCAST), 2017\

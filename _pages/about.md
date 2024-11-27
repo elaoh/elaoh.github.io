@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Hi, thank you for visiting my online portfolio.\
+\
 I am Enrico Laoh, PhD candidate in Industrial Engineering and Management, specializing in advancing human-AI collaborative systems for high-stakes decision-making. My research integrates AI's precision with human reasoning to address critical challenges, particularly in healthcare, where I have developed explainable AI models for early disease detection. Additionally, I am exploring advanced technologies such as blockchain and federated learning to create secure and adaptable AI systems for diverse applications. With multiple publications, awards, and leadership experiences, including guiding my INFORMS chapter to national recognition, I am dedicated to impactful research, interdisciplinary collaboration, and innovation. As a recipient of the i-CORPS Creativity, Innovation, and Entrepreneurship Scholar Award, funded by NASA, I have also developed a business plan to commercialize my research, emphasizing its real-world applicability and societal value.\
+\
 Welcome to my homepage and please do not hestitate to [contact me](mailto:elaoh@okstate.edu) for more information.
 
 My Expertise
