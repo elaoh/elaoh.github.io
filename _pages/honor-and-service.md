@@ -9,9 +9,9 @@ redirect_from:
 
 Member of Honor Society
 ------
-🤵🏻 **Alpha Pi Mu Honor Society**, Industrial Engineering Honor Society, 2022\
-🤵🏻 **Tau Beta Pi Honor Society**, Engineering Honor Society, 2022\
-🤵🏻 **Phi Kappa Phi Honor Society**, General Academic Honor Society, 2022
+🤵🏻 **Alpha Pi Mu Honor Society**, Industrial Engineering Honor Society, since 2022\
+🤵🏻 **Tau Beta Pi Honor Society**, Engineering Honor Society, since 2022\
+🤵🏻 **Phi Kappa Phi Honor Society**, General Academic Honor Society, since 2022
 
 Selected Awards
 ------
@@ -19,7 +19,7 @@ Selected Awards
 👨🏻‍🎓 **President Leadership Recognition**, Hargis Leadership Institute, 2024\
 👨🏻‍🎓 **Roberson Dissertation Award**, Oklahoma State University, 2024\
 👨🏻‍🎓 **Outstanding Graduate Student Award**, CEAT Oklahoma State University, 2024\
-👨🏻‍🎓 **Roy and Virginia Dorrough Distinguished Graduate Fellowship**, Oklahoma State University, 2023 and 2024\
+👨🏻‍🎓 **Roy and Virginia Dorrough Distinguished Graduate Fellowship**, Oklahoma State University, 2023, 2024 and 2025\
 👨🏻‍🎓 **Creativity, Innovation, and Entrepreneurship Scholar**, Spears School of Business, Oklahoma State University, 2021\
 👨🏻‍⚖️ **International Publication Awards**, Annual Engineering Dean's Awards for Outstanding International Publications, Faculty of Engineering, Universitas Indonesia, 2018 and 2019\
 👨🏻‍🔬 **IEEE SMC Society Merit Paper Awards**, 8th International Conference on Awareness Science and Technology (iCAST), 2017\
@@ -37,6 +37,7 @@ Service
   - *Competition Judge*, LOGIKA National Mathematics Paper Competition 2020
   - *Competition Judge*, Innovative Ideas Challenge SPWI UI 2018
 - **Reviewer** 
+  - Sustainable Futures Journal
   - PeerJ Computer Science
   - Ain Shams Engineering Journal
   - International Conference on Quality in Research
