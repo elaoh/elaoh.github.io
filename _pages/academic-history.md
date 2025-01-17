@@ -1,9 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Academic History"
-excerpt: "Academic History"
+permalink: /pacademic-history/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /academic-history
 ---
 
@@ -18,10 +18,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
-            <div>**Archimedes**</div>
+            <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
-        <div>"It was the begining of people starting to think formally to solve the world problems"</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 150px;">
@@ -29,11 +28,10 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
-            <div>**Niccolò Fontana Tartaglia**</div>
+            <div><strong>Niccolò Fontana Tartaglia*</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
         <div>🇮🇹 1525</div>
-        <div>"Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)"</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 150px;">
