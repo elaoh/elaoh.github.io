@@ -74,7 +74,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://en.wikipedia.org/wiki/Benedetto_Castelli" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Benedetto Castelli</strong></div>
         </a>
-        <div>23th Great Grand Advisor</div>
+        <div>23rd Great Grand Advisor</div>
         <a href="https://www.unipd.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università degli Studi di Padova, 1610</div>
         </a>
@@ -87,7 +87,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://en.wikipedia.org/wiki/Evangelista_Torricelli" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Evangelista Torricelli</strong></div>
         </a>
-        <div>22th Great Grand Advisor</div>
+        <div>22nd Great Grand Advisor</div>
         <a href="https://www.uniroma1.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Roma La Sapienza, 1625</div>
         </a>
@@ -110,31 +110,30 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a20.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Isaac_Barrow" target="_blank">
+            <img src="/images/ancestors/a20.png" alt="A20" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Isaac_Barrow" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Isaac Barrow</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>20th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1652</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a19.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">
+            <img src="/images/ancestors/a19.png" alt="A19" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Isaac Newton</strong></div>
         </a>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Physics</strong></div>
         <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1668</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
@@ -151,7 +150,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -165,7 +163,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -179,7 +176,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
@@ -196,7 +192,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -210,7 +205,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unipi.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Pisa, 1525</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -241,7 +235,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -255,7 +248,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -269,7 +261,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
@@ -286,7 +277,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -300,7 +290,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -314,7 +303,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
@@ -331,7 +319,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -345,7 +332,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -359,8 +345,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
-    </div>
+   </div>
 </div>
 
 <!-- Row 9 -->
@@ -376,7 +361,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -390,7 +374,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -404,7 +387,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
@@ -421,7 +403,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -435,7 +416,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
@@ -449,7 +429,6 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
