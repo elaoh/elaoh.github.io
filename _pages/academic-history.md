@@ -21,9 +21,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
-        <div style="font-size: 10px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
-    <div style="font-size: 24px; color: #888; align-self: center;">→</div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -33,9 +33,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         </a>
         <div>26th Great Grand Advisor</div>
         <div>1525</div>
-        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
-    <div style="font-size: 24px; color: #888; align-self: center;">→</div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -45,12 +45,13 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         </a>
         <div>26th Great Grand Advisor</div>
         <div>1525</div>
-        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
 <!-- Row 2 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -59,9 +60,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
-        <div style="font-size: 10px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
-    <div style="font-size: 24px; color: #888; align-self: center;">→</div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -71,9 +72,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         </a>
         <div>26th Great Grand Advisor</div>
         <div>1525</div>
-        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
-    <div style="font-size: 24px; color: #888; align-self: center;">→</div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -83,7 +84,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         </a>
         <div>26th Great Grand Advisor</div>
         <div>1525</div>
-        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
