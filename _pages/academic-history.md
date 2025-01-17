@@ -13,8 +13,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 1 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">   </div>
-    <div style="text-align: center; max-width: 250px;">
+     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
@@ -52,8 +51,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 2 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
+     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
@@ -91,7 +89,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 3 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -130,7 +127,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 4 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -169,7 +165,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 5 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -189,7 +184,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
-        <div>1525</div>
+        <a href="https://www.unipi.it/" target="_blank" style="text-decoration: none; color: #666;">
+            <div>Università di Pisa, 1525</div>
+        </a>
         <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
@@ -208,7 +205,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 6 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -247,7 +243,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 7 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -286,7 +281,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 8 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -325,7 +319,6 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 9 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
