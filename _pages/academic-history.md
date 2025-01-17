@@ -9,6 +9,7 @@ redirect_from:
 
 I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
 
+<div style="background-image: url('/images/ancestors/tree.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; opacity: 0.1; position: absolute; top: 0; left: 0; width: 200%; height: 200%; z-index: -1;"></div>
 <div style="display: flex; flex-direction: column; gap: 40px; padding: 20px;">
 
 <!-- Row 1 -->
@@ -17,7 +18,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -28,7 +29,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -40,7 +41,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -55,7 +56,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -66,7 +67,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -78,7 +79,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -93,7 +94,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -104,7 +105,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -116,7 +117,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -131,7 +132,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -142,7 +143,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -154,7 +155,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -169,7 +170,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="`text-decoration: underline`; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -180,11 +181,11 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
-        <a href="https://www.unipi.it/" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://www.unipi.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Pisa, 1525</div>
         </a>
         <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
@@ -194,7 +195,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -209,7 +210,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -220,7 +221,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -232,7 +233,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -247,7 +248,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -258,7 +259,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -270,7 +271,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -285,7 +286,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -296,7 +297,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -308,7 +309,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -323,7 +324,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
         <div>The Father of Math</div>
@@ -334,7 +335,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
@@ -346,7 +347,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
             <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
