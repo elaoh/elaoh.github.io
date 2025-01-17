@@ -13,9 +13,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 1 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
-    <div style="text-align: center; max-width: 150px;">
+    <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -24,9 +24,9 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <div style="font-size: 10px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 150px;">
+    <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -36,51 +36,54 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
         <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 150px;">
-        <a href="https://ancestor3-webpage.com" target="_blank">
-            <img src="ancestor3.jpg" alt="Ancestor 3" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://ancestor3-webpage.com" target="_blank" style="text-decoration: none; color: #666;">
-            <div>Ancestor 3</div>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
-        <div>Research Scientist</div>
-        <div>Stanford University, 1970</div>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
 <!-- Row 2 -->
-<div style="display: flex; align-items: center; gap: 40px; justify-content: center; margin-top: 20px;">
-    <div style="text-align: center; max-width: 150px;">
-        <a href="https://ancestor4-webpage.com" target="_blank">
-            <img src="ancestor4.jpg" alt="Ancestor 4" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://ancestor4-webpage.com" target="_blank" style="text-decoration: none; color: #666;">
-            <div>Ancestor 4</div>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
         </a>
-        <div>Senior Lecturer</div>
-        <div>Cambridge University, 1965</div>
+        <div>The Father of Math</div>
+        <div style="font-size: 10px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 150px;">
-        <a href="https://ancestor5-webpage.com" target="_blank">
-            <img src="ancestor5.jpg" alt="Ancestor 5" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://ancestor5-webpage.com" target="_blank" style="text-decoration: none; color: #666;">
-            <div>Ancestor 5</div>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
-        <div>PhD Scholar</div>
-        <div>Oxford University, 1960</div>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 150px;">
-        <a href="https://your-webpage.com" target="_blank">
-            <img src="me.jpg" alt="You" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://your-webpage.com" target="_blank" style="text-decoration: none; color: #666;">
-            <div>You</div>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
-        <div>PhD Student</div>
-        <div>Oklahoma State University, 2024</div>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
