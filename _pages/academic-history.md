@@ -39,7 +39,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Ostilio_Ricci" target="_blank">
-            <img src="/images/ancestors/a25.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a25.png" alt="A25" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Ostilio_Ricci" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Ostilio Ricci</strong></div>
@@ -55,7 +55,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
      <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">
-            <img src="/images/ancestors/a24.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a24.png" alt="A24" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Galileo Galilei</strong></div>
@@ -68,31 +68,29 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a23.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Benedetto_Castelli" target="_blank">
+            <img src="/images/ancestors/a23.png" alt="A23" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Benedetto_Castelli" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Benedetto Castelli</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>23th Great Grand Advisor</div>
+        <a href="https://www.unipd.it/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Università degli Studi di Padova, 1610</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a22.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Evangelista_Torricelli" target="_blank">
+            <img src="/images/ancestors/a22.png" alt="A22" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Evangelista_Torricelli" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Evangelista Torricelli</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <a href="https://www.uniroma1.it/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Università di Roma La Sapienza, 1625</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
 </div>
 
