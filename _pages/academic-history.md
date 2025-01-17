@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Academic History"
+title: "My Academic Ancestors"
 permalink: /academic-history/
 author_profile: true
 redirect_from:
   - /academic-history
 ---
 
-I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
+The knowledge does not come instantly to me. Tracing back the past, it is a centuries of efforts done by my ACADEMIC ANCESTORS. I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
 
 <div style="background-image: url('/images/ancestors/tree.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; opacity: 0.5; position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"></div>
 <div style="display: flex; flex-direction: column; gap: 40px; padding: 20px;">
