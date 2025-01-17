@@ -21,7 +21,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
-        <div style="font-size: 18px; color: #666;">The Father of Math</div>
+        <div style="font-size: 18px; color: #666;"><strong>The Father of Math</strong></div>
         <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
@@ -47,25 +47,24 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <div>25th Great Grand Advisor</div>
         <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Brescia, 1560</div>
-        </a>
-        <div>Università di Brescia, 1560</div>        
+        </a> 
     </div>
 </div>
 
 <!-- Row 2 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
      <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+        <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">
             <img src="/images/ancestors/a24.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
+        <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Galileo Galilei</strong></div>
         </a>
-        <div>25th Great Grand Advisor</div>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Science</strong></div>
+        <div>24th Great Grand Advisor</div>
         <a href="https://www.unipi.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Pisa, 1585</div>
         </a>
-        <div style="font-size: 18px; color: #666;">The Father of Science</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
