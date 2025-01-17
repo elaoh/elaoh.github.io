@@ -13,6 +13,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 
 <!-- Row 1 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">   </div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
             <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
@@ -50,6 +51,279 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 </div>
 
 <!-- Row 2 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 3 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 4 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 5 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 6 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 7 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 8 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 9 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
