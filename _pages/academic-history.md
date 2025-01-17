@@ -39,7 +39,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a25.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -54,7 +54,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
      <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a24.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -65,7 +65,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a23.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -77,7 +77,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a22.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -92,7 +92,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a21.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -103,7 +103,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a20.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -115,7 +115,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a19.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -130,7 +130,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a18.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -141,7 +141,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a17.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -153,7 +153,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a16.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -168,7 +168,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a15.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="`text-decoration: underline`; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -179,7 +179,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a14.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -193,7 +193,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a13.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -208,7 +208,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a12.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -219,7 +219,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a11.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -231,7 +231,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a10.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -246,7 +246,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a09.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -257,7 +257,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a08.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -269,7 +269,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a07.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -284,7 +284,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a06.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -295,7 +295,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a05.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -307,7 +307,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a04.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -322,7 +322,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a03.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -333,7 +333,7 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a02.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
@@ -345,7 +345,45 @@ The knowledge does not come instantly to me. Tracing back the past, it is a cent
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a01.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+</div>
+
+<!-- Row 10 -->
+<div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
+            <img src="/images/ancestors/c02.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Archimedes</strong></div>
+        </a>
+        <div>The Father of Math</div>
+        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/c01.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        </a>
+        <div>26th Great Grand Advisor</div>
+        <div>1525</div>
+        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
+            <img src="/images/ancestors/me.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Niccolò Fontana Tartaglia</strong></div>
