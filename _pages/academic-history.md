@@ -15,7 +15,7 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 150px;">
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a00.png" alt="A00" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a00.png" alt="A00" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: none; color: #666;">
             <div><strong>Archimedes</strong></div>
@@ -26,13 +26,13 @@ I am so grateful for what my academic ancestors have accomplished in the past, a
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 150px;">
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a26.png" alt="A26" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/a26.png" alt="A26" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: none; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia*</strong></div>
+            <div><strong>Niccolò Fontana Tartaglia</strong></div>
         </a>
         <div>26th Great Grand Advisor</div>
-        <div>"🇮🇹" 1525</div>
+        <div>1525</div>
         <div style="font-size: 10px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
     </div>
     <div style="font-size: 24px; color: #888; align-self: center;">→</div>
