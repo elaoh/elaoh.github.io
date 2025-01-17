@@ -9,7 +9,7 @@ redirect_from:
 
 I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
 
-<div style="background-image: url('/images/ancestors/tree.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; opacity: 0.1; position: absolute; top: 0; left: 0; width: 200%; height: 200%; z-index: -1;"></div>
+<div style="background-image: url('/images/ancestors/tree.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; opacity: 0.5; position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"></div>
 <div style="display: flex; flex-direction: column; gap: 40px; padding: 20px;">
 
 <!-- Row 1 -->
