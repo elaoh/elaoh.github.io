@@ -4,8 +4,7 @@ title: "Academic History"
 excerpt: "Academic History"
 author_profile: true
 redirect_from: 
-  - /academic-history/
-  - /academic-history.html
+  - /academic-history
 ---
 
 I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
