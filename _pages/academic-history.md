@@ -7,7 +7,7 @@ redirect_from:
   - /academic-history
 ---
 
-The knowledge does not come instantly to me. Tracing back into the past, it was a centuries of efforts done by my Academic ancestors. I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
+The knowledge does not come instantly to me. Tracing back into the past, it was a centuries of efforts done by my academic ancestors. I am so grateful for what my academic ancestors have accomplished in the past, and I deeply appreciate the knowledge and wisdom they have passed down to me. Their dedication and contributions to science inspire me every day to continue this incredible journey.
 
 <div style="background-image: url('/images/ancestors/tree.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; opacity: 0.5; position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"></div>
 <div style="display: flex; flex-direction: column; gap: 40px; padding: 20px;">
@@ -87,7 +87,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://en.wikipedia.org/wiki/Evangelista_Torricelli" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Evangelista Torricelli</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
+        <div>22th Great Grand Advisor</div>
         <a href="https://www.uniroma1.it/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Università di Roma La Sapienza, 1625</div>
         </a>
@@ -97,17 +97,16 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 3 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a21.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Vincenzo_Viviani" target="_blank">
+            <img src="/images/ancestors/a21.png" alt="A21" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Vincenzo_Viviani" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Vincenzo Viviani</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>21st Great Grand Advisor</div>
+        <a href="https://www.unipi.it/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Università di Pisa, 1642</div>
         </a>
-        <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
