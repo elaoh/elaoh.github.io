@@ -21,7 +21,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Archimedes</strong></div>
         </a>
-        <div style="font-size: 18px; color: #666;"><strong>The Father of Math</strong></div>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Math</strong></div>
         <div style="font-size: 11px; color: #666;">It was the begining, humanity try to think the world problems formally</div>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
@@ -224,41 +224,43 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 6 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a12.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Adam_Sedgwick" target="_blank">
+            <img src="/images/ancestors/a12.png" alt="A12" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Adam_Sedgwick" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Adam Sedgwick</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
-        </a>
-    </div>
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a11.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
-        </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Geology</strong></div>
+        <div>12th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1811</div>
         </a>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a10.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/William_Hopkins" target="_blank">
+            <img src="/images/ancestors/a11.png" alt="A11" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/William_Hopkins" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>William Hopkins</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>11th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1830</div>
+        </a>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Edward_Routh" target="_blank">
+            <img src="/images/ancestors/a10.png" alt="A10" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Edward_Routh" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Edward John Routh</strong></div>
+        </a>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Modern Control Theory</strong></div>
+        <div>10th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1857</div>
         </a>
     </div>
 </div>
@@ -266,41 +268,42 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 7 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a09.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh" target="_blank">
+            <img src="/images/ancestors/a09.png" alt="A09" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Lord Rayleigh</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
-        </a>
-    </div>
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a08.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
-        </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>9th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1868</div>
         </a>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a07.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/J._J._Thomson" target="_blank">
+            <img src="/images/ancestors/a08.png" alt="A08" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/J._J._Thomson" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Joseph John Thomson</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Modern Atom</strong></div>
+        <div>8th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1883</div>
+        </a>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Owen_Richardson" target="_blank">
+            <img src="/images/ancestors/a07.png" alt="A07" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Owen_Richardson" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Owen W. Richardson</strong></div>
+        </a>
+        <div>7th Great Grand Advisor</div>
+         <a href="https://www.london.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of London, 1904</div>
         </a>
     </div>
 </div>
@@ -308,41 +311,42 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 8 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a06.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Karl_Taylor_Compton" target="_blank">
+            <img src="/images/ancestors/a06.png" alt="A06" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Karl_Taylor_Compton" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Karl Taylor Compton</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
-        </a>
-    </div>
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a05.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
-        </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>6th Great Grand Advisor</div>
+        <a href="https://www.princeton.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Princeton University, 1912</div>
         </a>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a04.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Philip_M._Morse" target="_blank">
+            <img src="/images/ancestors/a05.png" alt="A05" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Philip_M._Morse" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Philip McCord Morse</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div style="font-size: 18px; color: #888;"><strong>The Father of Operations Research</strong></div>
+        <div>5th Great Grand Advisor</div>
+        <a href="https://www.princeton.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Princeton University, 1929</div>
+        </a>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Ronald_A._Howard" target="_blank">
+            <img src="/images/ancestors/a04.png" alt="A04" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Ronald_A._Howard" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Ronald Arthur Howard</strong></div>
+        </a>
+        <div>4th Great Grand Advisor</div>
+        <a href="https://www.mit.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Massachusetts Institute of Technology, 1958</div>
         </a>
    </div>
 </div>
@@ -350,41 +354,41 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 9 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a03.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://news.mit.edu/2005/obit-drake#:~:text=Alvin%20W.,30." target="_blank">
+            <img src="/images/ancestors/a03.png" alt="A03" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://news.mit.edu/2005/obit-drake#:~:text=Alvin%20W.,30." target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Alvin William Drake</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
-        </a>
-    </div>
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a02.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
-        </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>3rd Great Grand Advisor</div>
+        <a href="https://www.mit.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Massachusetts Institute of Technology, 1962</div>
         </a>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a01.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://idss.mit.edu/staff/richard-larson/" target="_blank">
+            <img src="/images/ancestors/a02.png" alt="A02" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://idss.mit.edu/staff/richard-larson/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Richard Charles Larson</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>2nd Great Grand Advisor</div>
+        <a href="https://www.mit.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Massachusetts Institute of Technology, 1969</div>
+        </a>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://discover.research.utoronto.ca/12113-oded-berman" target="_blank">
+            <img src="/images/ancestors/a01.png" alt="A01" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://discover.research.utoronto.ca/12113-oded-berman" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Oded Berman</strong></div>
+        </a>
+        <div>Great Grand Advisor</div>
+        <a href="https://www.mit.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Massachusetts Institute of Technology, 1978</div>
         </a>
     </div>
 </div>
@@ -392,41 +396,41 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 10 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/c02.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://slevi1.mit.edu/" target="_blank">
+            <img src="/images/ancestors/c02.png" alt="C02" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://slevi1.mit.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>David Simchi-Levi</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
-        </a>
-    </div>
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/c01.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
-        </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>Grand Advisor</div>
+        <a href="https://english.tau.ac.il/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Tel Aviv University, 1987</div>
         </a>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/me.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://experts.okstate.edu/tieming.liu" target="_blank">
+            <img src="/images/ancestors/c01.png" alt="C01" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://experts.okstate.edu/tieming.liu" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Tieming Liu</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>Advisor</div>
+        <a href="https://www.mit.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Massachusetts Institute of Technology, 2005</div>
+        </a>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://elaoh.github.io" target="_blank">
+            <img src="/images/ancestors/me.png" alt="Me" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://elaoh.github.io" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Enrico Laoh</strong></div>
+        </a>
+        <div>PhD Candidate</div>
+        <a href="https://go.okstate.edu/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>Oklahoma State University, 2025</div>
         </a>
     </div>
 </div>
