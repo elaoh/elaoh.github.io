@@ -12,11 +12,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Brief Resume"
-    url: /files/Resume-update.pdf 
-
   - title: "Comprehensive CV"
     url: /files/CV-update.pdf 
+
+  - title: "Brief Resume"
+    url: /files/Resume-update.pdf 
 
 #  - title: "Talks"
 #    url: /talks/    
