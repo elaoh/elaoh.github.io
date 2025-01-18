@@ -166,15 +166,15 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a16.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Walter_Taylor_(mathematician)" target="_blank">
+            <img src="/images/ancestors/a16.png" alt="A16" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Walter_Taylor_(mathematician)" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Walter Taylor</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>16th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1723</div>
         </a>
     </div>
 </div>
@@ -182,43 +182,42 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
 <!-- Row 5 -->
 <div style="display: flex; align-items: center; gap: 40px; justify-content: center;">
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank">
-            <img src="/images/ancestors/a15.png" alt="A00" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Stephen_Whisson" target="_blank">
+            <img src="/images/ancestors/a15.png" alt="A15" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Archimedes" target="_blank" style="`text-decoration: underline`; color: #666;">
-            <div><strong>Archimedes</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Stephen_Whisson" target="_blank" style="`text-decoration: underline`; color: #666;">
+            <div><strong>Stephen Whisson</strong></div>
         </a>
-        <div>The Father of Math</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
-        </a>
-    </div>
-    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
-    <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a14.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
-        </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unipi.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Pisa, 1525</div>
+        <div>15th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1742</div>
         </a>
     </div>
     <div style="font-size: 48px; color: #888; align-self: center;">→</div>
     <div style="text-align: center; max-width: 250px;">
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank">
-            <img src="/images/ancestors/a13.png" alt="A26" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Thomas_Postlethwaite" target="_blank">
+            <img src="/images/ancestors/a14.png" alt="A14" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
-        <a href="https://en.wikipedia.org/wiki/Nicolo_Tartaglia" target="_blank" style="text-decoration: underline; color: #666;">
-            <div><strong>Niccolò Fontana Tartaglia</strong></div>
+        <a href="https://en.wikipedia.org/wiki/Thomas_Postlethwaite" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Thomas Postlethwaite</strong></div>
         </a>
-        <div>26th Great Grand Advisor</div>
-        <a href="https://www.unibs.it/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Università di Brescia, 1560</div>
+        <div>14th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1756</div>
         </a>
-        <div style="font-size: 11px; color: #666;">Studying and compiling Archimedes and Euclid’s knowledge into a book (Compilation of Mathematics)</div>
+    </div>
+    <div style="font-size: 48px; color: #888; align-self: center;">→</div>
+    <div style="text-align: center; max-width: 250px;">
+        <a href="https://en.wikipedia.org/wiki/Thomas_Jones_(mathematician)" target="_blank">
+            <img src="/images/ancestors/a13.png" alt="A13" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Thomas_Jones_(mathematician)" target="_blank" style="text-decoration: underline; color: #666;">
+            <div><strong>Thomas Jones </strong></div>
+        </a>
+        <div>13th Great Grand Advisor</div>
+        <a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: underline; color: #666;">
+            <div>University of Cambridge, 1782</div>
+        </a>
     </div>
 </div>
 
