@@ -37,6 +37,7 @@ Service
   - *Competition Judge*, LOGIKA National Mathematics Paper Competition 2020
   - *Competition Judge*, Innovative Ideas Challenge SPWI UI 2018
 - **Reviewer** 
+  - European Journal of Operational Research
   - Sustainable Futures Journal
   - PeerJ Computer Science
   - Ain Shams Engineering Journal
