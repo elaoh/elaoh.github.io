@@ -30,9 +30,12 @@ Leadership
 
 Professional Certification
 ------
-- Certified Six Sigma Green Belt
+- [Certified Six Sigma Green Belt](https://images.credential.net/embed/kc68hipa.png)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/81bf5494-2a61-4259-a33c-955eb27a8265)
 - [Supply Chain Design](https://scq.io/bIGf5pL)
+- [MLOps Engineering on AWS](https://elaoh.github.io/files/AWSMLOps.pdf)
+- [Amazon SageMaker Studio for Data Scientists](https://elaoh.github.io/files/AWSSageMaker.pdf)
+- [Building Data Analytics Solutions Using Amazon Redshift](https://elaoh.github.io/files/AWSRedshift.pdf)
 - IRB for Biomedical Research
 
 Professional Society Membership
