@@ -7,10 +7,8 @@ redirect_from:
   - /projects
 ---
 
-# Research Projects
-
-Below are selected projects reflecting interdisciplinary work in AI, data science, and healthcare.  
-📁 You can also view the [full list of publications and patents](https://scholar.google.com/citations?hl=en&user=DoJQbfoAAAAJ&view_op=list_works&sortby=pubdate).
+Below are selected research projects supported by multiple grants reflecting interdisciplinary work in Data Science and Artificial Intelligence.  
+📁 Please finds [full list of publications and patents](https://scholar.google.com/citations?hl=en&user=DoJQbfoAAAAJ&view_op=list_works&sortby=pubdate).
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
