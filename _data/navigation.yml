@@ -3,8 +3,8 @@ main:
   - title: "Professional Competencies"
     url: /professional-competencies/
 
-#  - title: "Projects"
-#    url: /projects/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Academic History"
     url: /academic-history/
