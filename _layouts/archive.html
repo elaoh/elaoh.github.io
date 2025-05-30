@@ -19,6 +19,10 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+
+    <div style="background-color: #fff; padding: 2rem; border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.1); margin-top: 1rem;">
+      {{ content }}
+    </div>
+ 
   </div>
 </div>
