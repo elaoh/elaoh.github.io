@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Introduction"
+    url: /about/
+
   - title: "Professional Competencies"
     url: /professional-competencies/
 

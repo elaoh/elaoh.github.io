@@ -7,12 +7,6 @@ redirect_from:
   - /honor-and-service
 ---
 
-Member of Honor Society
-------
-🤵🏻 **Alpha Pi Mu Honor Society**, Industrial Engineering Honor Society, since 2022\
-🤵🏻 **Tau Beta Pi Honor Society**, Engineering Honor Society, since 2022\
-🤵🏻 **Phi Kappa Phi Honor Society**, General Academic Honor Society, since 2022
-
 Selected Awards
 ------
 👨🏻‍🎓 **Graduate Student Leadership Award**, School of Industrial Engineering and Management, 2025\
@@ -56,3 +50,9 @@ Service
   - International Conference on Quality in Research
   - Asia Pacific Conference on Research in Industrial and System Engineering
   - Indonesian Journal of Electrical Engineering and Computer Science
+
+Member of Honor Society
+------
+🤵🏻 **Alpha Pi Mu Honor Society**, Industrial Engineering Honor Society, since 2022\
+🤵🏻 **Tau Beta Pi Honor Society**, Engineering Honor Society, since 2022\
+🤵🏻 **Phi Kappa Phi Honor Society**, General Academic Honor Society, since 2022
