@@ -43,6 +43,9 @@ Service
 - **Reviewer** 
   - European Journal of Operational Research
   - Decision Analytics Journal
+  - Engineering Applications of Artificial Intelligence
+  - Journal of the American Medical Informatics Association
+  - Journal of Intelligent Manufacturing
   - Social Sciences & Humanities Open Journal
   - Sustainable Futures Journal
   - PeerJ Computer Science
