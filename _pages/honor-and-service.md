@@ -35,6 +35,7 @@ Service
 ------
 - **President** INFORMS Oklahoma State University Chapter 
 - **Vice President** GPSGA Oklahoma State University
+- **Vice President/Secretary** Alpha Pi Mu Oklahoma State University
 - **Conference Committee**
   - *Technical Program Chair*, Asia Pacific Conference on Research in Industrial and Systems Engineering
   - *Scientific Committee*, Asia Pacific Conference on Research in Industrial and Systems Engineering
