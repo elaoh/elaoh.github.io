@@ -24,6 +24,7 @@ Key Competencies
 
 Leadership
 ------
+- **Secretary/Vice President**, Alpha Pi Mu Industrial Engineering Honor Society, Oklahoma State University Chapter
 - **Vice President**, Graduate and Professional Student Government Association, Oklahoma State University
 - **President**, Institute for Operations Research and the Management Sciences Oklahoma State University Chapter
 - **Lead4Success Awardee**, Hargis Leadership Institute
@@ -32,7 +33,7 @@ Professional Certification
 ------
 - [Certified Six Sigma Green Belt](https://images.credential.net/embed/kc68hipa.png)
 - [Tableau Desktop Specialist](https://www.credly.com/badges/81bf5494-2a61-4259-a33c-955eb27a8265)
-- [Supply Chain Design](https://scq.io/bIGf5pL)
+- [Supply Chain Design](https://www.credential.net/99fb86de-8930-4582-83f1-5c16d9e9c5aa#acc.vrHTitpV)
 - [MLOps Engineering on AWS](https://elaoh.github.io/files/AWSMLOps.pdf)
 - [Amazon SageMaker Studio for Data Scientists](https://elaoh.github.io/files/AWSSageMaker.pdf)
 - [Building Data Analytics Solutions Using Amazon Redshift](https://elaoh.github.io/files/AWSRedshift.pdf)
@@ -42,3 +43,4 @@ Professional Society Membership
 ------
 - Institute for Operations Research and the Management Sciences (INFORMS)
 - Institute of Industrial and Systems Engineers (IISE)
+- American Medical Informatics Association
