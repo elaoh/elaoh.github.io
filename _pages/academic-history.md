@@ -403,7 +403,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
     </div>
     <div style="text-align: center; width: 33%;">
         <a href="https://elaoh.github.io" target="_blank">
-            <img src="/images/ancestors/me.png" alt="Me" style="width: 100%; max-width: 200px; height: auto; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
+            <img src="/images/ancestors/me.jpeg" alt="Me" style="width: 100%; max-width: 200px; height: auto; border-radius: 50%; border: 2px solid #ccc; margin-bottom: 10px;">
         </a>
         <a href="https://elaoh.github.io" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Enrico Laoh</strong></div>
