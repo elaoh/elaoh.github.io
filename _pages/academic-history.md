@@ -410,7 +410,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         </a>
         <div>PhD Candidate</div>
         <a href="https://go.okstate.edu/" target="_blank" style="text-decoration: underline; color: #666;">
-            <div>Oklahoma State University, 2025</div>
+            <div>Oklahoma State University, 2026</div>
         </a>
     </div>
 </div>
