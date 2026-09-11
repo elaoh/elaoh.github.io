@@ -408,7 +408,7 @@ The knowledge does not come instantly to me. Tracing back into the past, it was 
         <a href="https://elaoh.github.io" target="_blank" style="text-decoration: underline; color: #666;">
             <div><strong>Enrico Laoh</strong></div>
         </a>
-        <div>PhD Candidate</div>
+        <div>PhD in Industrial Engineering</div>
         <a href="https://go.okstate.edu/" target="_blank" style="text-decoration: underline; color: #666;">
             <div>Oklahoma State University, 2026</div>
         </a>

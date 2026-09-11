@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, thank you for visiting my online portfolio.\
 \
-I am Enrico Laoh, PhD candidate in Industrial Engineering and Management, specializing in advancing human-AI collaborative systems for multi-stakes decision-making. My research integrates AI's precision with human reasoning to address critical challenges. Additionally, I am exploring advanced technologies such as blockchain and continuous learning frameworks to create secure and adaptable AI systems for diverse applications. With multiple publications, awards, and leadership experiences, including guiding my INFORMS chapter to national recognition, I am dedicated to impactful research, interdisciplinary collaboration, and innovation. As a recipient of the i-CORPS Creativity, Innovation, and Entrepreneurship Scholar Award, funded by NASA, I have also developed a business plan to commercialize my research, emphasizing its real-world applicability and societal value.\
+I am Enrico Laoh, PhD in Industrial Engineering and Management, specializing in advancing human-AI collaborative systems for multi-stakes decision-making. My research integrates AI's precision with human reasoning to address critical challenges. Additionally, I am exploring advanced technologies such as blockchain and continuous learning frameworks to create secure and adaptable AI systems for diverse applications. With multiple publications, awards, and leadership experiences, including guiding my INFORMS chapter to national recognition, I am dedicated to impactful research, interdisciplinary collaboration, and innovation. As a recipient of the i-CORPS Creativity, Innovation, and Entrepreneurship Scholar Award, funded by NASA, I have also developed a business plan to commercialize my research, emphasizing its real-world applicability and societal value.\
 \
 Welcome to my homepage and please do not hestitate to [contact me](mailto:elaoh@okstate.edu) for more information.
 
@@ -50,7 +50,7 @@ My current research focuses on developing **interpretable, continual, and fairne
 
 Education
 ------
-- **Doctor of Philosophy**, *Industrial Engineering and Management*, (***all-but-dissertation***)
+- **Doctor of Philosophy**, *Industrial Engineering and Management*, (GPA 4.00/4.00)
 Oklahoma State University, Stillwater, United States
 - **Master of Science**, *Industrial Engineering and Management*, (GPA 4.00/4.00)
 Oklahoma State University, Stillwater, United States

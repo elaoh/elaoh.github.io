@@ -19,7 +19,7 @@ Selected Awards
 *Recognized for outstanding doctoral research contributing to advancements in industrial engineering and data science*\
 👨🏻‍🎓 **Outstanding Graduate Student Award**, CEAT Oklahoma State University, 2024\
 *Selected as the top graduate student in the CEAT based on academic excellence and research achievements*\
-👨🏻‍🎓 **Roy and Virginia Dorrough Distinguished Graduate Fellowship**, Oklahoma State University, 2023, 2024 and 2025\
+👨🏻‍🎓 **Roy and Virginia Dorrough Distinguished Graduate Fellowship**, Oklahoma State University, 2023 - 2026\
 *Awarded to recognize outstanding graduate students with evidence of exceptional academic performance and achievements, leadership experiences, and notable extracurricular or community engagement activity*\
 👨🏻‍🎓 **Creativity, Innovation, and Entrepreneurship Scholar**, Spears School of Business, Oklahoma State University, 2021\
 *Distinguished student with excellence, innovativeness, creativity, responsibility for change, engagement in one’s surroundings, personal integrity and strong moral character*\
