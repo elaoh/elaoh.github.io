@@ -10,7 +10,9 @@ redirect_from:
 
 Hi, thank you for visiting my online portfolio.\
 \
-I am Enrico Laoh, PhD in Industrial Engineering and Management, specializing in advancing human-AI collaborative systems for multi-stakes decision-making. My research integrates AI's precision with human reasoning to address critical challenges. Additionally, I am exploring advanced technologies such as blockchain and continuous learning frameworks to create secure and adaptable AI systems for diverse applications. With multiple publications, awards, and leadership experiences, including guiding my INFORMS chapter to national recognition, I am dedicated to impactful research, interdisciplinary collaboration, and innovation. As a recipient of the i-CORPS Creativity, Innovation, and Entrepreneurship Scholar Award, funded by NASA, I have also developed a business plan to commercialize my research, emphasizing its real-world applicability and societal value.\
+*	I am an interdisciplinary researcher with a PhD in Industrial Engineering and Management, working at the intersection of artificial intelligence, information technology, life science analytics, and managerial aspects, with a focus on developing adaptive, interpretable, and human-centered intelligent systems to support decision-making in complex systems. My research advances AI-driven decision frameworks by integrating machine learning, explainable AI, and optimization to enable reliable, transparent, and adaptive decision-making. 
+* My current research spans applied data analytics and intelligent decision support systems, emphasizing the translation of complex multimodal data into actionable insights for sustainable and evidence-based decisions. 
+* Supported by a strong record of peer-reviewed publications, international awards, competitive fellowships, and leadership experience, including guiding an INFORMS student chapter to national recognition, I am committed to advancing interdisciplinary and translational AI research with real-world impact and commercialization potential, reinforced by recognition as a NASA-funded I-Corps Creativity, Innovation, and Entrepreneurship Scholar.\
 \
 Welcome to my homepage and please do not hestitate to [contact me](mailto:elaoh@okstate.edu) for more information.
 
@@ -42,10 +44,10 @@ Research Interests
 My current research focuses on developing **interpretable, continual, and fairness-aware machine learning frameworks** to support multi-stakes decision-making systems. I am particularly interested in balancing adaptability, transparency, and human usability, with current emphasis on healthcare systems applications while expanding into finance, operations, and other business cases.
 
 * **Methodology**\
-  Interpretable incremental learning, transfer learning, temporal modeling, federated learning, probabilistic and Bayesian methods, multivariate and time-series analysis, clustering and classification algorithms, bibliometric-guided feature selection, human-AI collaborative decision systems, and blockchain-integrated analytics.
+  Interpretable incremental learning, transfer learning, temporal modeling, federated learning, reinforceent learning, probabilistic and Bayesian methods, multivariate and time-series analysis, clustering and classification algorithms, bibliometric-guided feature selection, human-AI collaborative decision systems, and blockchain-integrated analytics.
 
 * **Applications**\
-  Healthcare systems (data-driven disease prediction, chronic disease progression), financial risk modeling, supply chain analytics, infrastructure and power systems, military logistics, privacy-preserving health data platforms, customer analytics, and strategic management decision support.
+  Healthcare systems (data-driven disease prediction, chronic disease progression, computational genetics), enrironmental systems (forest genetics, breeding maangement, growth modelling), financial risk modeling, supply chain analytics, infrastructure and power systems, military logistics, customer analytics, and strategic management decision support.
 
 
 Education
