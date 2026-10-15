@@ -1,0 +1,77 @@
+name: Sync Google Scholar and publish site
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: '17 9 * * 1'  # Mondays at 09:17 UTC; GitHub may delay scheduled jobs
+  workflow_dispatch:
+
+permissions:
+  contents: write       # Save updated publication JSON to repository
+  pages: write          # Deploy site to GitHub Pages
+  id-token: write       # Required for GitHub Pages deployment
+
+concurrency:
+  group: 'github-pages-scholar'
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out your website
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch Google Scholar publications
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: python scripts/update_scholar.py
+
+      - name: Commit updated publication data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _data/scholar_publications.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update publications from Google Scholar'
+            git push origin HEAD:master
+          else
+            echo 'Publication data unchanged.'
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      # Use the same Jekyll/GitHub Pages environment supported by Academic Pages.
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: './'
+          destination: './_site'
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: './_site'
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish updated website
+        id: deployment
+        uses: actions/deploy-pages@v4

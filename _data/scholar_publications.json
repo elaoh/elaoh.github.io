@@ -1,5 +1,346 @@
 {
   "scholar_id": "DoJQbfoAAAAJ",
-  "updated_at": null,
-  "publications": []
+  "updated_at": "2026-10-15T05:57:16Z",
+  "publications": [
+    {
+      "title": "A robust and trustable approach to incorporate medical domain knowledge in machine learning models for diabetic retinopathy screening using routine lab results",
+      "authors": "E Laoh, T Liu",
+      "venue": "Smart Health 42 (2026), 100724, 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:mVmsd5A6BfQC",
+      "citation_id": "DoJQbfoAAAAJ:mVmsd5A6BfQC",
+      "citations": 2,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7796635304777205092"
+    },
+    {
+      "title": "GIS-based wildfire prediction model in Indonesia using stacking ensemble learning",
+      "authors": "CH Puspitadewi, A Dhini, E Laoh, D Sudiana",
+      "venue": "Artificial Intelligence in Geosciences, 100228, 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:qUcmZB5y_30C",
+      "citation_id": "DoJQbfoAAAAJ:qUcmZB5y_30C",
+      "citations": 2,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4476730509547574503"
+    },
+    {
+      "title": "Route Optimisation and Expansion of BisKita Depok Service Corridor using Set Covering Problem Approach",
+      "authors": "AB Prasetya, Zulkarnain, E Laoh",
+      "venue": "South African Journal of Industrial Engineering 36 (2), 35-46, 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:ZeXyd9-uunAC",
+      "citation_id": "DoJQbfoAAAAJ:ZeXyd9-uunAC",
+      "citations": 0,
+      "cited_by_url": ""
+    },
+    {
+      "title": "Design Pruning Method to Obtain Simple Rules for Diabetic Retinopathy Prediction with Routine Lab Results",
+      "authors": "OB Ahmad, E Laoh, T Liu",
+      "venue": "IISE Annual Conference. Proceedings, 1-6, 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:L8Ckcad2t8MC",
+      "citation_id": "DoJQbfoAAAAJ:L8Ckcad2t8MC",
+      "citations": 0,
+      "cited_by_url": ""
+    },
+    {
+      "title": "Stacked Generalization with Sequential-Model Based Optimization for estimating Used Car Valuation in Indonesia",
+      "authors": "I Surjandari, A Dzikri, A Dhini, E Laoh, KD Pangesty, PS Aurora, ...",
+      "venue": "Engineering, Technology & Applied Science Research 14 (5), 17239-17247, 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:QIV2ME_5wuYC",
+      "citation_id": "DoJQbfoAAAAJ:QIV2ME_5wuYC",
+      "citations": 1,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13156360365200042661"
+    },
+    {
+      "title": "Designing a Permissioned Blockchain Network for the Halal Industry using Hyperledger Fabric with multiple channels and the raft consensus mechanism",
+      "authors": "I Surjandari, H Yusuf, E Laoh, R Maulida",
+      "venue": "Journal of Big Data 8 (1), 10, 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "DoJQbfoAAAAJ:LkGwnXOMwfcC",
+      "citations": 129,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=743546162883815314"
+    },
+    {
+      "title": "Customer segmentation on returned product customers using time series clustering analysis",
+      "authors": "A Syaputra, E Laoh",
+      "venue": "2020 International Conference on ICT for Smart Society (ICISS), 1-5, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:kNdYIx-mwKoC",
+      "citation_id": "DoJQbfoAAAAJ:kNdYIx-mwKoC",
+      "citations": 6,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17580732277063302268"
+    },
+    {
+      "title": "Estimating customer lifetime value using LRFM model in pharmaceutical and medical device distribution company",
+      "authors": "R Rahmadianti, A Dhini, E Laoh",
+      "venue": "2020 International Conference on ICT for Smart Society (ICISS), 1-5, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "DoJQbfoAAAAJ:3fE2CSJIrl8C",
+      "citations": 14,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16261611375435549638"
+    },
+    {
+      "title": "Airline passenger forecasting using arima and artificial neural networks approaches",
+      "authors": "S Ramadhani, A Dhini, E Laoh",
+      "venue": "2020 International Conference on ICT for Smart Society (ICISS), 1-5, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "DoJQbfoAAAAJ:MXK_kJrjxJIC",
+      "citations": 16,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12765631738732646446"
+    },
+    {
+      "title": "Jakarta flood risk mapping using index-based approach and spatial analysis",
+      "authors": "RF Amira, I Surjandari, E Laoh",
+      "venue": "2020 International Conference on ICT for Smart Society (ICISS), 1-6, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:8k81kl-MbHgC",
+      "citation_id": "DoJQbfoAAAAJ:8k81kl-MbHgC",
+      "citations": 15,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1067535052945519887"
+    },
+    {
+      "title": "Segmenting and targeting the potential markets of a Muslim fashion company",
+      "authors": "A Dhini, LR Budiani, E Laoh",
+      "venue": "2020 International Conference on ICT for Smart Society (ICISS), 1-5, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:5nxA0vEk-isC",
+      "citation_id": "DoJQbfoAAAAJ:5nxA0vEk-isC",
+      "citations": 4,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=134531761561535077"
+    },
+    {
+      "title": "Analyzing highway road accident characteristic using data mining",
+      "authors": "MY Ilham, I Surjandari, E Laoh",
+      "venue": "2020 International Workshop on Big Data and Information Security (IWBIS), 17-22, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:0EnyYjriUFMC",
+      "citation_id": "DoJQbfoAAAAJ:0EnyYjriUFMC",
+      "citations": 4,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16766998613308978664"
+    },
+    {
+      "title": "Financial statement fraud detection in Indonesia listed companies using machine learning based on meta-heuristic optimization",
+      "authors": "S Hidayattullah, I Surjandari, E Laoh",
+      "venue": "2020 International Workshop on Big Data and Information Security (IWBIS), 79-84, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:Se3iqnhoufwC",
+      "citation_id": "DoJQbfoAAAAJ:Se3iqnhoufwC",
+      "citations": 25,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7335561189561426590"
+    },
+    {
+      "title": "Automobile insurance fraud detection using supervised classifiers",
+      "authors": "IMN Prasasti, A Dhini, E Laoh",
+      "venue": "2020 International Workshop on Big Data and Information Security (IWBIS), 47-52, 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:roLk4NBRz8UC",
+      "citation_id": "DoJQbfoAAAAJ:roLk4NBRz8UC",
+      "citations": 33,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7203473330178866434"
+    },
+    {
+      "title": "Karya Rekaman Video\" Video Kegiatan Zero Paper Waste-SQE Lab & Nara Kreatif (Hibah Pengabdian Masyarakat-Aksi UI Untuk Negeri\"",
+      "authors": "IS Prajitno, E Laoh, AMM Rus",
+      "venue": "",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:Zph67rFs4hoC",
+      "citation_id": "DoJQbfoAAAAJ:Zph67rFs4hoC",
+      "citations": 0,
+      "cited_by_url": ""
+    },
+    {
+      "title": "Mining public opinion on ride-hailing service providers using aspect-based sentiment analysis",
+      "authors": "I Surjandari, RA Wayasti, E Laoh, AMM Rus, I Prawiradinata",
+      "venue": "Int. J. Technol 10 (4), 818, 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:_FxGoFyzp5QC",
+      "citation_id": "DoJQbfoAAAAJ:_FxGoFyzp5QC",
+      "citations": 24,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14218274879364155516"
+    },
+    {
+      "title": "Mining customers opinion on services and applications of mobile payment companies in Indonesia using sentiment analysis approach",
+      "authors": "NI Prabaningtyas, I Surjandari, E Laoh",
+      "venue": "2019 16th International Conference on Service Systems and Service Management …, 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:ufrVoPGSRksC",
+      "citation_id": "DoJQbfoAAAAJ:ufrVoPGSRksC",
+      "citations": 11,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=401895528452940082"
+    },
+    {
+      "title": "Enhancing hospitality sentiment reviews analysis performance using SVM N-grams method",
+      "authors": "E Laoh, I Surjandari, NI Prabaningtyas",
+      "venue": "2019 16th International Conference on Service Systems and Service Management …, 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:WF5omc3nYNoC",
+      "citation_id": "DoJQbfoAAAAJ:WF5omc3nYNoC",
+      "citations": 19,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14927584414481833488"
+    },
+    {
+      "title": "Fault detection system using machine learning on geothermal power plant",
+      "authors": "I Surjandari, RR Bramasta, E Laoh",
+      "venue": "2019 16th International conference on service systems and service management …, 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "DoJQbfoAAAAJ:eQOLeE2rZwMC",
+      "citations": 14,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14526743323954055216"
+    },
+    {
+      "title": "A clustering-based approach for reorganizing bus route on bus rapid transit system",
+      "authors": "DS Nadinta, I Surjandari, E Laoh",
+      "venue": "2019 16th International Conference on Service Systems and Service Management …, 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "DoJQbfoAAAAJ:YsMSGLbcyi4C",
+      "citations": 9,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6563731010708989675"
+    },
+    {
+      "title": "Estimating customer segmentation based on customer lifetime value using two-stage clustering method",
+      "authors": "PP Pramono, I Surjandari, E Laoh",
+      "venue": "2019 16th International Conference on Service Systems and Service Management …, 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:W7OEmFMy1HYC",
+      "citation_id": "DoJQbfoAAAAJ:W7OEmFMy1HYC",
+      "citations": 44,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3194852141230181613"
+    },
+    {
+      "title": "Internet Traffic Forecasting Model Using Self Organizing Map and Support Vector Regression Method",
+      "authors": "E Laoh, F Agustriwan, C Megawati, I Surjandari",
+      "venue": "Makara Journal of Technology 22 (2), 1, 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "DoJQbfoAAAAJ:UeHWp8X0CEIC",
+      "citations": 2,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3196775479304622529"
+    },
+    {
+      "title": "Mining Web Log Data for News Topic Modeling Using Latent Dirichlet Allocation",
+      "authors": "I Surjandari, A Rosyidah, Z Zulkarnain, E Laoh",
+      "venue": "2018 5th International Conference on Information Science and Control …, 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:Y0pCki6q_DkC",
+      "citation_id": "DoJQbfoAAAAJ:Y0pCki6q_DkC",
+      "citations": 8,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8429177529894723044"
+    },
+    {
+      "title": "Determining characteristics of popular local songs in indonesia's music market",
+      "authors": "LR Febirautami, I Surjandari, E Laoh",
+      "venue": "2018 5th International Conference on Information Science and Control …, 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "DoJQbfoAAAAJ:Tyk-4Ss8FVUC",
+      "citations": 13,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5671958203289328848"
+    },
+    {
+      "title": "Mining Information Search Pattern on Website: A Case Study of Educational Institution",
+      "authors": "R Azitha, I Surjandari, E Laoh",
+      "venue": "2018 5th International Conference on Information Science and Control …, 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "DoJQbfoAAAAJ:zYLM7Y9cAGgC",
+      "citations": 1,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1505317603409575385"
+    },
+    {
+      "title": "Indonesians' Song Lyrics Topic Modelling Using Latent Dirichlet Allocation",
+      "authors": "E Laoh, I Surjandari, LR Febirautami",
+      "venue": "2018 5th International Conference on Information Science and Control …, 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:IjCSPb-OGe4C",
+      "citation_id": "DoJQbfoAAAAJ:IjCSPb-OGe4C",
+      "citations": 18,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1151873972547044586"
+    },
+    {
+      "title": "Mining online reviews in Indonesia's priority tourist destinations using sentiment analysis and text summarization approach",
+      "authors": "P Prameswari, I Surjandari, E Laoh",
+      "venue": "2017 IEEE 8th International Conference on Awareness Science and Technology …, 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "DoJQbfoAAAAJ:2osOgNQ5qMEC",
+      "citations": 36,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17530518971119247071"
+    },
+    {
+      "title": "Reconfiguring oil distribution route using graph partitioning and graph optimization",
+      "authors": "E Laoh, I Surjandari",
+      "venue": "2017 IEEE 8th International Conference on Awareness Science and Technology …, 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "DoJQbfoAAAAJ:u5HHmVD_uO8C",
+      "citations": 1,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4450650918698809512"
+    },
+    {
+      "title": "Electricity distribution clustering and configuration study using KM-MST",
+      "authors": "E Laoh, I Surjandari, A Dhini",
+      "venue": "2017 3rd International Conference on Science in Information Technology …, 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "DoJQbfoAAAAJ:9yKSN-GCB0IC",
+      "citations": 0,
+      "cited_by_url": ""
+    },
+    {
+      "title": "Opinion mining from online reviews in Bali tourist area",
+      "authors": "P Prameswari, I Surjandari, E Laoh",
+      "venue": "2017 3rd International Conference on Science in Information Technology …, 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "DoJQbfoAAAAJ:d1gkVwhDpl0C",
+      "citations": 43,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15019034060462573742"
+    },
+    {
+      "title": "Data mining approach for short term load forecasting by combining wavelet transform and group method of data handling (WGMDH)",
+      "authors": "T Yuniarti, I Surjandari, E Muslim, E Laoh",
+      "venue": "2017 3rd International Conference on Science in Information Technology …, 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "DoJQbfoAAAAJ:u-x6o8ySG0sC",
+      "citations": 13,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4807982435703327040"
+    },
+    {
+      "title": "Temporal Machine Learning Models for Early Stroke Subtype Prediction Using Laboratory Data",
+      "authors": "O Bani Ahmad, E Laoh, T Liu",
+      "venue": "Available at SSRN 5680004, 0",
+      "year": "Undated",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:IWHjjKOFINEC",
+      "citation_id": "DoJQbfoAAAAJ:IWHjjKOFINEC",
+      "citations": 0,
+      "cited_by_url": ""
+    },
+    {
+      "title": "International Advisory Board",
+      "authors": "P Leviakangas, B Santosa, I Surjandari, W Sutopo, L Widodo, T Zagloel, ...",
+      "venue": "",
+      "year": "Undated",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:KlAtU1dfN6UC",
+      "citation_id": "DoJQbfoAAAAJ:KlAtU1dfN6UC",
+      "citations": 0,
+      "cited_by_url": ""
+    },
+    {
+      "title": "Author’s Index",
+      "authors": "A Nurhadiyatna, A Wibisono, AA Krisnadhi, A Kekalih, AE Minarno, ...",
+      "venue": "",
+      "year": "Undated",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "DoJQbfoAAAAJ:hqOjcs7Dif8C",
+      "citations": 0,
+      "cited_by_url": ""
+    }
+  ]
 }
