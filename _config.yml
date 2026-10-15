@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Enrico Laoh"
   avatar           : "Profile elaoh.jpeg"
-  bio              : "IISE Liza Zaken Award for Excellence Awardee | Computational Genetics Researcher @ Okalhoma State Univesity and @ Univerity of Alberta "
+  bio              : "IISE Liza Zaken Award for Excellence Awardee | Computational Genetics Researcher @ Okalhoma State Univesity and @ Univerity of Alberta"
   location         : "USA"
-  employer         : "Oklahoma State University"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=enrico+laoh"
   googlescholar    : "https://scholar.google.com/citations?user=DoJQbfoAAAAJ&hl=en"
   email            : "elaoh@okstate.edu"
