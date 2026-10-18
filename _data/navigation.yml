@@ -6,6 +6,9 @@ main:
 #  - title: "Professional Competencies"
 #    url: /professional-competencies/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Projects"
     url: /projects/
 
@@ -14,9 +17,6 @@ main:
 
   - title: "Honor and Service"
     url: /honor-and-service/
-
-  - title: "Publications"
-    url: /publications/
 
   - title: "Comprehensive CV"
     url: /files/CV-update.pdf 
