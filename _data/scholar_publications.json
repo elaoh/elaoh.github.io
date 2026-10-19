@@ -1,6 +1,6 @@
 {
   "scholar_id": "DoJQbfoAAAAJ",
-  "updated_at": "2026-10-15T05:57:16Z",
+  "updated_at": "2026-10-19T16:31:03Z",
   "publications": [
     {
       "title": "A robust and trustable approach to incorporate medical domain knowledge in machine learning models for diabetic retinopathy screening using routine lab results",
@@ -49,7 +49,7 @@
       "year": "2024",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:QIV2ME_5wuYC",
       "citation_id": "DoJQbfoAAAAJ:QIV2ME_5wuYC",
-      "citations": 1,
+      "citations": 2,
       "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13156360365200042661"
     },
     {
@@ -79,7 +79,7 @@
       "year": "2020",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DoJQbfoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=DoJQbfoAAAAJ:3fE2CSJIrl8C",
       "citation_id": "DoJQbfoAAAAJ:3fE2CSJIrl8C",
-      "citations": 14,
+      "citations": 15,
       "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16261611375435549638"
     },
     {
